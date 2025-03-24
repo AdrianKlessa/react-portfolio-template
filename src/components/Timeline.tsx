@@ -16,50 +16,50 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2024 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Graduate studies</h3>
+            <h4 className="vertical-timeline-element-subtitle">Adam Mickiewicz University</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Python, Natural Language Processing, Fine-tuning LLMs, MLOps, Reinforcement Learning
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="2022 - 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Java software development internship</h3>
+            <h4 className="vertical-timeline-element-subtitle">Grodan</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Java / Spring Boot, AWS, MySQL, TimescaleDB, React
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2019 - 2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Computer Science studies</h3>
+            <h4 className="vertical-timeline-element-subtitle">Adam Mickiewicz University</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Python, Java / Spring Boot, OpenGL, SQL, Recommender Systems
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2015 - 2019"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">Technical School</h3>
+            <h4 className="vertical-timeline-element-subtitle">ZSK</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              ANSI C, SQL, building PCs, Linux system administration, PHP
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

@@ -24,7 +24,8 @@ const labelsSecond = [
     "Matplotlib",
     "Sklearn",
     "Hugging Face",
-    "Stable Baselines3"
+    "Stable Baselines3",
+    "Gemini API"
 ];
 
 const labelsThird = [
