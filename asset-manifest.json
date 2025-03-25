@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.6eaaebff.css",
-    "main.js": "/react-portfolio-template/static/js/main.c25f9e20.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/books.png": "/react-portfolio-template/static/media/books.3686163121e76f11b65f.png",
-    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/flappy_scaled.png": "/react-portfolio-template/static/media/flappy_scaled.ae2c4e37d2d65411d85e.png",
-    "static/media/syosetu_scaled.png": "/react-portfolio-template/static/media/syosetu_scaled.02f30c212ad9aff31ed1.png",
-    "static/media/steamscout_scaled.png": "/react-portfolio-template/static/media/steamscout_scaled.00be573290ff8faae698.png",
-    "static/media/cgproject_scaled.png": "/react-portfolio-template/static/media/cgproject_scaled.8e3883653833c9045f1d.png",
-    "static/media/mealqr_scaled.png": "/react-portfolio-template/static/media/mealqr_scaled.f7d17d5199a36951848d.png",
-    "static/media/superpermutation.png": "/react-portfolio-template/static/media/superpermutation.9712501e518d3c6d6d60.png",
-    "static/media/rust_planets.png": "/react-portfolio-template/static/media/rust_planets.08dc9458b01615171c15.png",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.6eaaebff.css.map": "/react-portfolio-template/static/css/main.6eaaebff.css.map",
-    "main.c25f9e20.js.map": "/react-portfolio-template/static/js/main.c25f9e20.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/static/css/main.3fb7ac09.css",
+    "main.js": "/static/js/main.39b59c2d.js",
+    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/books.png": "/static/media/books.3686163121e76f11b65f.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/flappy_scaled.png": "/static/media/flappy_scaled.ae2c4e37d2d65411d85e.png",
+    "static/media/syosetu_scaled.png": "/static/media/syosetu_scaled.02f30c212ad9aff31ed1.png",
+    "static/media/steamscout_scaled.png": "/static/media/steamscout_scaled.00be573290ff8faae698.png",
+    "static/media/cgproject_scaled.png": "/static/media/cgproject_scaled.8e3883653833c9045f1d.png",
+    "static/media/mealqr_scaled.png": "/static/media/mealqr_scaled.f7d17d5199a36951848d.png",
+    "static/media/superpermutation.png": "/static/media/superpermutation.9712501e518d3c6d6d60.png",
+    "static/media/rust_planets.png": "/static/media/rust_planets.08dc9458b01615171c15.png",
+    "index.html": "/index.html",
+    "main.3fb7ac09.css.map": "/static/css/main.3fb7ac09.css.map",
+    "main.39b59c2d.js.map": "/static/js/main.39b59c2d.js.map",
+    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6eaaebff.css",
-    "static/js/main.c25f9e20.js"
+    "static/css/main.3fb7ac09.css",
+    "static/js/main.39b59c2d.js"
   ]
 }
