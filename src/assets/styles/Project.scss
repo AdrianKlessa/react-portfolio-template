@@ -24,6 +24,8 @@
     border-radius: 5px;
     transition: transform .2s;
     margin: 0 auto;
+    object-fit: cover;
+    aspect-ratio: 1700/1120;
 }
   
 .zoom:hover {

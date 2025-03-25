@@ -20,10 +20,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Graduate studies</h3>
+            <h3 className="vertical-timeline-element-title">Master's Degree</h3>
             <h4 className="vertical-timeline-element-subtitle">Adam Mickiewicz University</h4>
             <p>
-              Python, Natural Language Processing, Fine-tuning LLMs, MLOps, Reinforcement Learning
+              Python, Natural Language Processing, Fine-tuning LLMs, MLOps, Reinforcement Learning, Sentiment Analysis
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -32,7 +32,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Java software development internship</h3>
+            <h3 className="vertical-timeline-element-title">Java Software Developer Internship</h3>
             <h4 className="vertical-timeline-element-subtitle">Grodan</h4>
             <p>
               Java / Spring Boot, AWS, MySQL, TimescaleDB, React
@@ -44,10 +44,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Computer Science studies</h3>
+            <h3 className="vertical-timeline-element-title">Engineering Degree</h3>
             <h4 className="vertical-timeline-element-subtitle">Adam Mickiewicz University</h4>
             <p>
-              Python, Java / Spring Boot, OpenGL, SQL, Recommender Systems
+              Python, Java / Spring Boot, OpenGL, SQL, Recommender Systems, Javascript
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
