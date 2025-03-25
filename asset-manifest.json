@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3fb7ac09.css",
-    "main.js": "/static/js/main.39b59c2d.js",
+    "main.js": "/static/js/main.4078b8ea.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/books.png": "/static/media/books.3686163121e76f11b65f.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
@@ -15,11 +15,11 @@
     "static/media/rust_planets.png": "/static/media/rust_planets.08dc9458b01615171c15.png",
     "index.html": "/index.html",
     "main.3fb7ac09.css.map": "/static/css/main.3fb7ac09.css.map",
-    "main.39b59c2d.js.map": "/static/js/main.39b59c2d.js.map",
+    "main.4078b8ea.js.map": "/static/js/main.4078b8ea.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fb7ac09.css",
-    "static/js/main.39b59c2d.js"
+    "static/js/main.4078b8ea.js"
   ]
 }
