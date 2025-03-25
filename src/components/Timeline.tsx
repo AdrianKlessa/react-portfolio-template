@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Master's Degree</h3>
             <h4 className="vertical-timeline-element-subtitle">Adam Mickiewicz University</h4>
             <p>
-              Python, Natural Language Processing, Fine-tuning LLMs, MLOps, Reinforcement Learning, Sentiment Analysis
+              Python, NLP, Fine-tuning LLMs, MLOps, Reinforcement Learning, Sentiment Analysis
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
