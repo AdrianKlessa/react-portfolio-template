@@ -7,6 +7,10 @@ import mock_flappy from '../assets/images/flappy_scaled.png'
 import mock_rust from '../assets/images/rust_planets.png'
 import mock_books from '../assets/images/books.png'
 import mock_superpermutation from '../assets/images/superpermutation.png'
+import mock_research from '../assets/images/research_scaled.png'
+import mock_bookclub from '../assets/images/book_club.png'
+import mock_aes from '../assets/images/aes_scaled.png'
+import mock_key from '../assets/images/key_scaled.png'
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -38,7 +42,32 @@ function Project() {
                     src={mock_syosetu_notifier} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/AdrianKlessa/Syosetu-notifier" target="_blank" rel="noreferrer"><h2>Syosetu
                     notifier</h2></a>
-                <p>Desktop notification system for novel updates on Syosetu.com using its API to periodically check for new chapters and modifications</p>
+                <p>Desktop notification system for novel updates on Syosetu.com using its API to periodically check for
+                    new chapters and modifications</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/AdrianKlessa/ResearchDigest" target="_blank" rel="noreferrer"><img
+                    src={mock_research} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/AdrianKlessa/ResearchDigest" target="_blank" rel="noreferrer"><h2>ResearchDigest</h2></a>
+                <p>Python script for retrieving new articles on given topics from Arxiv and generating Markdown summaries / explanations of interesting papers with Gemini API</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/AdrianKlessa/BookClub" target="_blank" rel="noreferrer"><img
+                    src={mock_bookclub} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/AdrianKlessa/BookClub" target="_blank" rel="noreferrer"><h2>BookClub</h2></a>
+                <p>Django web app for keeping up with books you want to read and discussing them with others</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/AdrianKlessa/chacha" target="_blank" rel="noreferrer"><img
+                    src={mock_key} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/AdrianKlessa/chacha" target="_blank" rel="noreferrer"><h2>Example implementation of Chacha20</h2></a>
+                <p>A naive Python implementation of the Chacha20 stream cipher, tested using official test vectors</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/AdrianKlessa/aes" target="_blank" rel="noreferrer"><img
+                    src={mock_aes} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/AdrianKlessa/aes" target="_blank" rel="noreferrer"><h2>Example implementation of AES with CBC</h2></a>
+                <p>A naive Python implementation of the AES block cipher with CBC mode of operation, tested using official test vectors</p>
             </div>
             <div className="project">
                 <a href="https://github.com/AdrianKlessa/CGProject" target="_blank" rel="noreferrer"><img src={mock_cg}
@@ -80,7 +109,9 @@ function Project() {
                                          width="100%"/></a>
                 <a href="https://github.com/AdrianKlessa/superpermutations" target="_blank" rel="noreferrer">
                     <h2>Superpermutations</h2></a>
-                <p>Experiments with training a reinforcement learning agent using Proximal Policy Optimization to find shortest superpermutations - a novel approach using modern machine learning to solve old problems in combinatorics.</p>
+                <p>Experiments with training a reinforcement learning agent using Proximal Policy Optimization to find
+                    shortest superpermutations - a novel approach using modern machine learning to solve old problems in
+                    combinatorics.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/AdrianKlessa/SyosetuPopularityPrediction" target="_blank"
@@ -90,7 +121,9 @@ function Project() {
                                          width="100%"/></a>
                 <a href="https://github.com/AdrianKlessa/SyosetuPopularityPrediction" target="_blank" rel="noreferrer">
                     <h2>Predicting novel popularity on Syosetu.com</h2></a>
-                <p>A machine learning model for predicting how popular a novel published on Syosetu will be based on its metadata. Can be used by authors to decide what tags to use in order to maximize their works' visibility. Includes an exploratory data analysis of the Syosetu novel dataset.</p>
+                <p>A machine learning model for predicting how popular a novel published on Syosetu will be based on its
+                    metadata. Can be used by authors to decide what tags to use in order to maximize their works'
+                    visibility. Includes an exploratory data analysis of the Syosetu novel dataset.</p>
             </div>
         </div>
     </div>
