@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.3fb7ac09.css",
-    "main.js": "/static/js/main.4078b8ea.js",
+    "main.js": "/static/js/main.5580d039.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/research_scaled.png": "/static/media/research_scaled.ebbe3dbd948dc9b0e61d.png",
+    "static/media/key_scaled.png": "/static/media/key_scaled.4949dddce3ad8f22e19a.png",
     "static/media/books.png": "/static/media/books.3686163121e76f11b65f.png",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
@@ -11,15 +13,17 @@
     "static/media/steamscout_scaled.png": "/static/media/steamscout_scaled.00be573290ff8faae698.png",
     "static/media/cgproject_scaled.png": "/static/media/cgproject_scaled.8e3883653833c9045f1d.png",
     "static/media/mealqr_scaled.png": "/static/media/mealqr_scaled.f7d17d5199a36951848d.png",
+    "static/media/book_club.png": "/static/media/book_club.ad5cc11906c8576803a9.png",
     "static/media/superpermutation.png": "/static/media/superpermutation.9712501e518d3c6d6d60.png",
     "static/media/rust_planets.png": "/static/media/rust_planets.08dc9458b01615171c15.png",
+    "static/media/aes_scaled.png": "/static/media/aes_scaled.1f8eff8c4b7996a5c233.png",
     "index.html": "/index.html",
     "main.3fb7ac09.css.map": "/static/css/main.3fb7ac09.css.map",
-    "main.4078b8ea.js.map": "/static/js/main.4078b8ea.js.map",
+    "main.5580d039.js.map": "/static/js/main.5580d039.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fb7ac09.css",
-    "static/js/main.4078b8ea.js"
+    "static/js/main.5580d039.js"
   ]
 }
