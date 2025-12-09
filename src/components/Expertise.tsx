@@ -14,7 +14,8 @@ const labelsFirst = [
     "React",
     "SQL",
     "PostgreSQL",
-    "Postman"
+    "Postman",
+    "Django"
 ];
 
 const labelsSecond = [
